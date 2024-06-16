@@ -1,0 +1,46 @@
+.para{
+    background-color: antiquewhite;
+    margin: 30px;
+    padding: 10px;
+    
+}
+#abtus{
+
+margin: 20px;
+background-color: aquamarine;
+color: black;
+padding:20px
+;
+font-weight: 500;
+
+
+}
+
+#contact{
+
+
+margin: 20px;
+background-color:springgreen;
+padding: 20px;
+font-weight: 500;
+
+}
+
+body{
+   background-image:url("background.jpg");
+   
+   background-position: center;
+   background-size: contain;
+   
+   background-attachment:fixed;
+   background-repeat:no-repeat;
+   
+   
+
+
+}
+.img{
+
+    margin: 20px;
+    
+}
